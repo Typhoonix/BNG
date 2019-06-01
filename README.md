@@ -1,4 +1,4 @@
-# GDUTELC Bell Network Group - Network Courses
+# GDUTELC Bell Network Group Courses
 
 
 
