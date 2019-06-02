@@ -24,7 +24,7 @@ This is an unoffical textbook.
 
 ### **Kinds of Licenses**
 
-### **Markdown & Git**
+### [**Markdown & Git**](Git+Markdown)
 
 ### **Web**
 * **CSS**
