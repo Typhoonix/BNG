@@ -8,13 +8,13 @@ This is an unoffical textbook.
 >
 > ## 目录
 > 
-> 1. [标题](docs/title.md)
-> 1. [文本](docs/text.md)
-> 1. [段落](docs/paragraph.md)
-> 1. [数值](docs/number.md)
-> 1. [标点符号](docs/marks.md)
-> 1. [文档体系](docs/structure.md)
-> 1. [参考链接](docs/reference.md)
+> 1. [标题](https://github.com/ruanyf/document-style-guide/tree/master/docs/title.md)
+> 1. [文本](https://github.com/ruanyf/document-style-guide/tree/master/docs/text.md)
+> 1. [段落](https://github.com/ruanyf/document-style-guide/tree/master/docs/paragraph.md)
+> 1. [数值](https://github.com/ruanyf/document-style-guide/tree/master/docs/number.md)
+> 1. [标点符号](https://github.com/ruanyf/document-style-guide/tree/master/docs/marks.md)
+> 1. [文档体系](https://github.com/ruanyf/document-style-guide/tree/master/docs/structure.md)
+> 1. [参考链接](https://github.com/ruanyf/document-style-guide/tree/master/docs/reference.md)
 > 
 > ## License
 >
